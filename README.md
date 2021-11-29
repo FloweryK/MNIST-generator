@@ -35,9 +35,11 @@ $ python3 main.py
 
 3. 매 epoch마다 generator가 만드는 숫자 샘플들을 samples 디렉토리에서 확인할 수 있습니다. 
 
+<br/>
 
 
-## Code inside
+
+## Explanations of the Code lines
 
 #### 0. 라이브러리 로드하기
 
