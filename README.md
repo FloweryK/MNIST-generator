@@ -204,7 +204,7 @@ for epoch in range(cfg.N_EPOCH):
 
 *epoch 1: 학습 초기에는 대충 중앙에 숫자들이 분포해있다는 정도만 배운 것 같네요.*
 
-![](samples/000.png)
+![](readme/sample_050.png)
 
 *epoch 50: 0부터 9까지 숫자의 형태를 조금 배운 것 같습니다.*
 
